@@ -1,0 +1,311 @@
+<div class="css-34e8nf"><div><section class="css-1akkl0w" data-has-photospot="false"><div class="css-l008c4 e1whdksc2"><div class="css-1tfqggw"><div class="css-k008qs"><div class="story-wrapper css-l97ely e1whdksc0" span="15"><div class="css-1rvhhh9 e1whdksc1"><div class="css-1tfqggw"><div class="css-k008qs"><div class="css-1t8qqrd e1whdksc0" span="5"><div class="css-8gwzkc e1whdksc1"><section class="story-wrapper"><div class="css-1h3q0b8">Live</div><div aria-hidden="true" class="css-1v4zsj1 e16ry1jj0" color="red"></div><a class="css-kej3w4" data-story="nyt://promo/070354dd-e915-511f-90d9-0481450a4a80" data-uri="nyt://promo/070354dd-e915-511f-90d9-0481450a4a80" data-visited="" href="https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden/"><h3 class="css-m2iw8b e1sjycav0" size="300">House Could Delay Sending Impeachment Article to Senate, a Top Democrat Says</h3></a><div class="css-1a00rns e16ry1jj0" color="orange"></div><a class="css-kej3w4" data-story="nyt://promo/070354dd-e915-511f-90d9-0481450a4a80" data-uri="nyt://promo/070354dd-e915-511f-90d9-0481450a4a80" data-visited="" href="https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden/"><ul class="css-1sm9s00"><li>Momentum for impeaching President Trump a second time was growing rapidly, and Representative James Clyburn said the House could vote as soon as Tuesday.</li><li>But leaders want to avoid hamstringing the first days of President-elect Joe Biden’s term with a Senate trial, Mr. Clyburn said. Here’s the latest.</li></ul></a></section></div></div><div class="css-16v318y e1whdksc0" span="10"><div class="css-1rvhhh9 e1whdksc1"><div><section class="interactive-content interactive-size-medium css-19ld86i" data-id="100000007493277"><div class="css-17ih8de interactive-body" data-sourceid="100000007493277">
+<script>window.registerInteractive && window.registerInteractive("100000007493277");</script>
+<style type="text/css">
+  
+.g-home-fader {
+  position: relative;
+  margin: 0 auto;
+  width: 100%;
+}
+.g-home-fader-inner {
+  height: 0;
+  padding-bottom: 100%;
+  width: 100%;
+}
+
+@media all and (min-width: 600px) {
+
+  .g-home-fader-inner {
+    padding-bottom: 66.66%;
+  }
+}
+
+.g-home-fader-photo-wrap {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: translate3d(0,0,0);
+  width: 100%;
+}
+
+.g-home-fader-photo-wrap .desktop {
+  display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .g-home-fader-photo-wrap .desktop {
+    display: none;
+  }
+}
+
+.g-home-fader-photo-wrap .mobile {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  .g-home-fader-photo-wrap .mobile {
+    display: block;
+  }
+}
+
+.g-home-fader-photo-wrap img {
+  left: 0;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transition: opacity 0.9s;
+  transform: translate3d(0,0,0);
+  width: 100%;
+}
+.g-home-fader-timestamp,
+.g-home-fader-caption {
+  box-sizing: border-box;
+  color: #fff;
+  font-family: "nyt-franklin", Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.02em;
+  opacity: 0;
+  padding: 20px;
+  position: absolute;
+  text-shadow: 0px 0px 10px rgba(0,0,0,0.25), 1px 1px 1px rgba(0,0,0,0.35), -1px -1px 1px rgba(0,0,0,0.35);
+  
+  transition: opacity 0.35s ease-in-out;
+  transition-delay: 0s;
+  width: 100%;
+  z-index: 99;
+/*  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;*/
+}
+
+@media all and (min-width: 740px) {
+    .g-home-fader-timestamp,
+  .g-home-fader-caption {
+        font-size: 18px;
+    }
+}
+
+.g-home-fader-timestamp {
+  font-weight: 700;
+  transition-delay: 0.35s;
+  top: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.g-home-fader-caption {
+  bottom: -5px;
+  line-height: 1;
+  transition-delay: 0.9s;
+}
+.g-home-fader-caption p {
+  display: inline;
+  /*font-family: nyt-cheltenham, georgia, serif;*/
+  font-size: 14px;
+  line-height: 1.25;
+  margin-bottom: 0.25em;
+}
+@media all and (min-width: 740px) {
+  .g-home-fader-caption p {
+    font-size: 16px;
+    line-height: 1.25;
+    margin-bottom: 0.5em;
+  }
+}
+.g-home-fader-photo-wrap .g-home-fader-credit {
+  color: rgba(255,255,255, 0.75);
+  display: inline-block;
+  font-size: 11px;
+}
+@media all and (min-width: 740px) {
+  .g-home-fader-photo-wrap .g-home-fader-credit {
+    font-size: 12px;
+  }
+}
+
+.g-home-fader-photo-wrap.g-home-fader-photo-active img {
+  opacity: 1;
+}
+.g-home-fader-photo-wrap.g-home-fader-photo-active .g-home-fader-timestamp {
+  opacity: 1;
+}
+.g-home-fader-photo-wrap.g-home-fader-photo-active .g-home-fader-caption {
+  opacity: 1;
+}
+</style>
+<a href="https://www.nytimes.com/2021/01/10/us/four-days-after-a-riot-at-the-capitol-the-likelihood-of-the-houses-impeaching-trump-continues-to-grow.html">
+<div class="g-home-fader" id="homepage-home-fader">
+<div class="g-home-fader-inner">
+<div class="g-home-fader-photo-wrap g-home-fader-photo-active">
+<div class="g-home-fader-timestamp">
+</div>
+<div class="desktop"><img src="https://static01.nyt.com/images/2021/01/10/us/politics/10-homepage-ss-capitol/merlin_182189370_5840306d-db9c-4d29-97de-a9299c5bded8-master1050.jpg"/></div>
+<div class="mobile"><img src="https://static01.nyt.com/images/2021/01/10/us/politics/10-homepage-ss-capitol/merlin_182189370_5840306d-db9c-4d29-97de-a9299c5bded8-square640.jpg"/></div>
+<div class="g-home-fader-caption">
+<span class="g-home-fader-credit">
+              Erin Scott for The New York Times
+            </span>
+</div>
+</div>
+<div class="g-home-fader-photo-wrap">
+<div class="g-home-fader-timestamp">
+</div>
+<div class="desktop"><img src="https://static01.nyt.com/images/2021/01/10/us/politics/10-homepage-ss-capitol-3/10-homepage-ss-capitol-3-master1050.jpg"/></div>
+<div class="mobile"><img src="https://static01.nyt.com/images/2021/01/10/us/politics/10-homepage-ss-capitol-3/10-homepage-ss-capitol-3-square640.jpg"/></div>
+<div class="g-home-fader-caption">
+<span class="g-home-fader-credit">
+              Erin Scott for The New York Times
+            </span>
+</div>
+</div>
+<div class="g-home-fader-photo-wrap">
+<div class="g-home-fader-timestamp">
+</div>
+<div class="desktop"><img src="https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-slides-slide-CH00/home-fader-hp-slides-slide-CH00-master1050.jpg"/></div>
+<div class="mobile"><img src="https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-slides-slide-CH00/home-fader-hp-slides-slide-CH00-square640.jpg"/></div>
+<div class="g-home-fader-caption">
+<span class="g-home-fader-credit">
+              Andrew Caballero-Reynolds/AFP — Getty Images
+            </span>
+</div>
+</div>
+<div class="g-home-fader-photo-wrap">
+<div class="g-home-fader-timestamp">
+</div>
+<div class="desktop"><img src="https://static01.nyt.com/images/2021/01/10/multimedia/10homefader-1a/merlin_182179563_e0c89e6d-c8f8-415f-88c4-15ab716c039e-master1050.jpg"/></div>
+<div class="mobile"><img src="https://static01.nyt.com/images/2021/01/10/multimedia/10homefader-1a/10homefader-1a-square640.jpg"/></div>
+<div class="g-home-fader-caption">
+<span class="g-home-fader-credit">
+              Anna Moneymaker for The New York Times
+            </span>
+</div>
+</div>
+<div class="g-home-fader-photo-wrap">
+<div class="g-home-fader-timestamp">
+</div>
+<div class="desktop"><img src="https://static01.nyt.com/images/2021/01/10/multimedia/10home-fader3/merlin_182152851_0099ddf5-71a9-4a7a-b0f7-eda94dbbe14a-master1050.jpg"/></div>
+<div class="mobile"><img src="https://static01.nyt.com/images/2021/01/10/multimedia/10home-fader3/10home-fader3-square640.jpg"/></div>
+<div class="g-home-fader-caption">
+<span class="g-home-fader-credit">
+              Anna Moneymaker for The New York Times
+            </span>
+</div>
+</div>
+<div class="g-home-fader-photo-wrap">
+<div class="g-home-fader-timestamp">
+</div>
+<div class="desktop"><img src="https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-slides-slide-18SL/home-fader-hp-slides-slide-18SL-master1050.jpg"/></div>
+<div class="mobile"><img src="https://static01.nyt.com/images/2020/12/08/multimedia/home-fader-hp-slides-slide-18SL/home-fader-hp-slides-slide-18SL-square640.jpg"/></div>
+<div class="g-home-fader-caption">
+<span class="g-home-fader-credit">
+              Allison Shelley/Reuters
+            </span>
+</div>
+</div>
+<div class="g-home-fader-photo-wrap">
+<div class="g-home-fader-timestamp">
+</div>
+<div class="desktop"><img src="https://static01.nyt.com/images/2021/01/10/multimedia/10home-fader4/merlin_182156619_748b80e1-a7ea-4baf-97b0-b1738a6cc044-master1050.jpg"/></div>
+<div class="mobile"><img src="https://static01.nyt.com/images/2021/01/10/multimedia/10home-fader4/10home-fader4-square640.jpg"/></div>
+<div class="g-home-fader-caption">
+<span class="g-home-fader-credit">
+              Anna Moneymaker for The New York Times
+            </span>
+</div>
+</div>
+<div class="g-home-fader-photo-wrap">
+<div class="g-home-fader-timestamp">
+</div>
+<div class="desktop"><img src="https://static01.nyt.com/images/2021/01/10/multimedia/10home-fader4a/merlin_182156613_b4f72942-3927-401a-bbd1-4979897467a6-master1050.jpg"/></div>
+<div class="mobile"><img src="https://static01.nyt.com/images/2021/01/10/multimedia/10home-fader4a/10home-fader4a-square640.jpg"/></div>
+<div class="g-home-fader-caption">
+<span class="g-home-fader-credit">
+              Anna Moneymaker for The New York Times
+            </span>
+</div>
+</div>
+<div class="g-home-fader-photo-wrap">
+<div class="g-home-fader-timestamp">
+</div>
+<div class="desktop"><img src="https://static01.nyt.com/images/2021/01/10/multimedia/10home-fader6/merlin_182156625_d5876bc2-06ed-440f-98e9-18026c733798-master1050.jpg"/></div>
+<div class="mobile"><img src="https://static01.nyt.com/images/2021/01/10/multimedia/10home-fader6/merlin_182156625_d5876bc2-06ed-440f-98e9-18026c733798-square640.jpg"/></div>
+<div class="g-home-fader-caption">
+<span class="g-home-fader-credit">
+              Anna Moneymaker for The New York Times
+            </span>
+</div>
+</div>
+</div>
+</div>
+</a>
+<script type="text/javascript">
+  ;(function() {
+
+    clearInterval(window.hpFaderTimer_homepage);
+
+    var images = document.querySelectorAll('#homepage-home-fader.g-home-fader .g-home-fader-photo-wrap'),
+      counter = 0;
+
+    var hasCaptions = true;
+    var speed = hasCaptions ? 7500 : 5000
+
+    window.hpFaderTimer_homepage = setInterval(function() {
+      var prev = counter;
+      counter++;
+      if(counter >  images.length-1) counter = 0
+        images[counter].classList.add('g-home-fader-photo-active');
+        // console.log(prev, counter)
+
+        setTimeout(function(){
+          // console.log(prev, counter)
+         images[prev].classList.remove('g-home-fader-photo-active');
+        }, 250)
+    },  speed);
+
+    // NYT app detection code
+    var isInApp = !!(
+      // sometimes this query param is present
+      window.location.search.indexOf('nytapp') > -1 ||
+      // usually the user agent is set
+      window.navigator.userAgent.match(/nyt[-_]?(?:ios|android)/i) ||
+      // on hybrid articles in android, the user agent and qs is missing
+      (window.navigator.userAgent.match(/android/i) && window.__HYBRID__)
+    );
+
+    var isInAppHome = document.querySelector('.nytapp-home-interactive') !== null;
+    var isAndroid = window.navigator.userAgent.indexOf('Android') > -1;
+    var isIos = !!window.navigator.userAgent.match(/iP(hone|ad)/i);
+
+    if (isInApp && isAndroid) document.querySelector('html').classList.add('nytapp-android');
+    if (isInApp && isIos) document.querySelector('html').classList.add('nytapp-ios');
+
+    // don't resize if inside of programming list
+    if (!document.querySelector("#programming-list")) {
+    // NYT apps resize function
+    // Resizes the interactive webview height after a 1 second pause
+      if ( window.NYTG && window.NYTG.enqueue) {
+        setTimeout(function() {
+          var container = document.querySelector("#homepage-home-fader.g-home-fader");
+          var windowWidth = window.innerWidth;
+          function resize() {
+            var height = container.offsetHeight;
+            window.NYTG.enqueue(
+              JSON.stringify({ id: 0, type: 'resize', options: { height: height } })
+              )
+          }
+          window.addEventListener("resize", function() {
+            if ( window.innerWidth != windowWidth ) {
+              windowWidth = window.innerWidth;
+              resize();
+            }
+          });
+          resize();
+        }, 1000);
+      }
+    }
+
+  })();
+
+</script>
+</div></section></div></div></div></div></div></div></div><div class="css-1t8qqrd e1whdksc0" span="5"><div class="css-1rvhhh9 e1whdksc1"><div class="css-l008c4 e1whdksc2"><div><section class="story-wrapper"><a class="css-kej3w4" data-story="nyt://article/0ad1bd67-1203-5dcb-a2e4-ece5158dcb1e" data-uri="nyt://article/0ad1bd67-1203-5dcb-a2e4-ece5158dcb1e" data-visited="" href="https://www.nytimes.com/2021/01/09/us/capitol-rioters.html"><h3 class="css-7ks5lc e1sjycav0" size="300">‘Our President Wants Us Here’: The Mob That Stormed the Capitol</h3></a><div aria-hidden="true" class="css-1v4zsj1 e16ry1jj0" color="red"></div><a class="css-kej3w4" data-story="nyt://article/0ad1bd67-1203-5dcb-a2e4-ece5158dcb1e" data-uri="nyt://article/0ad1bd67-1203-5dcb-a2e4-ece5158dcb1e" data-visited="" href="https://www.nytimes.com/2021/01/09/us/capitol-rioters.html"><p class="css-xr2t52">QAnon, Proud Boys, elected officials, regular Americans:  They came with different origins, but one allegiance.</p></a></section></div><div><section class="story-wrapper"><a class="css-kej3w4" data-story="nyt://article/73906d57-d2f6-5e88-9379-717fc9241aa0" data-uri="nyt://article/73906d57-d2f6-5e88-9379-717fc9241aa0" data-visited="" href="https://www.nytimes.com/2021/01/10/us/trump-speech-riot.html"><h3 class="css-7ks5lc e1sjycav0" size="300">We analyzed the speech President Trump gave immediately before his supporters rushed the capitol.</h3></a></section></div><div><section class="story-wrapper"><a class="css-kej3w4" data-story="nyt://article/6b6a639a-9ca8-5a7f-abac-72be2afa0cd5" data-uri="nyt://article/6b6a639a-9ca8-5a7f-abac-72be2afa0cd5" data-visited="" href="https://www.nytimes.com/2021/01/10/us/politics/capitol-arrests.html"><h3 class="css-7ks5lc e1sjycav0" size="300">Dozens have been charged after the riot. Here are some of the notable arrests.</h3></a></section></div></div></div></div></div></div></div><div class="css-juckgf e16ry1jj0" color="skyblue"></div></section></div><div><section><div class="css-13u4lv1 e1fmpue40"></div><div class="css-1orey24 e16ry1jj0" color="green"></div><section><div class="css-l008c4 e1whdksc2"><div class="css-1tfqggw"><div class="css-k008qs"><div class="css-nlwf2p e1whdksc0" span="10"><div class="css-1rvhhh9 e1whdksc1"><section class="story-wrapper"><a class="css-kej3w4" data-story="nyt://article/d3c1703c-5bee-5b9d-b79c-fc6edd133dca" data-uri="nyt://article/d3c1703c-5bee-5b9d-b79c-fc6edd133dca" data-visited="" href="https://www.nytimes.com/2021/01/10/us/politics/trump-twitter.html"><h3 class="css-1i56yqc e1sjycav0" size="200">Stripped of Twitter, Trump Faces a New Challenge: How to Get Attention</h3></a><div aria-hidden="true" class="css-1v4zsj1 e16ry1jj0" color="red"></div><a class="css-kej3w4" data-story="nyt://article/d3c1703c-5bee-5b9d-b79c-fc6edd133dca" data-uri="nyt://article/d3c1703c-5bee-5b9d-b79c-fc6edd133dca" data-visited="" href="https://www.nytimes.com/2021/01/10/us/politics/trump-twitter.html"><p class="css-xr2t52">Mr. Trump became a celebrity through television, but Twitter had given him a singular outlet for expressing himself as he is.</p></a></section></div></div><div class="css-nlwf2p e1whdksc0" span="10"><div class="css-1rvhhh9 e1whdksc1"><section class="story-wrapper"><a class="css-kej3w4" data-story="nyt://article/aa1b7048-f0d4-5a12-a1d7-a0daf12e9886" data-uri="nyt://article/aa1b7048-f0d4-5a12-a1d7-a0daf12e9886" data-visited="" href="https://www.nytimes.com/2021/01/09/technology/apple-google-parler.html"><h3 class="css-1i56yqc e1sjycav0" size="200">Parler, App That Drew Trump Supporters, Fights for Its Life</h3></a><div aria-hidden="true" class="css-1v4zsj1 e16ry1jj0" color="red"></div><a class="css-kej3w4" data-story="nyt://article/aa1b7048-f0d4-5a12-a1d7-a0daf12e9886" data-uri="nyt://article/aa1b7048-f0d4-5a12-a1d7-a0daf12e9886" data-visited="" href="https://www.nytimes.com/2021/01/09/technology/apple-google-parler.html"><p class="css-xr2t52">The social network’s chief executive said it would most likely be unavailable for a week as Amazon, Apple and Google dropped it from their platforms.</p></a></section></div></div><div class="css-nlwf2p e1whdksc0" span="10"><div class="css-1rvhhh9 e1whdksc1"><section class="story-wrapper"><a class="css-kej3w4" data-story="nyt://article/1b32aa63-94c0-551e-a9f1-c3fa814688c3" data-uri="nyt://article/1b32aa63-94c0-551e-a9f1-c3fa814688c3" data-visited="" href="https://www.nytimes.com/2021/01/10/us/politics/lawmakers-may-have-been-exposed-to-the-coronavirus-while-sheltering-during-the-capitol-riot-a-doctor-says.html"><h3 class="css-1i56yqc e1sjycav0" size="200">Lawmakers may have been exposed to the coronavirus while sheltering during the Capitol riot, a doctor said.</h3></a></section></div></div><div class="css-nlwf2p e1whdksc0" span="10"><div class="css-1rvhhh9 e1whdksc1"><section class="story-wrapper"><a class="css-kej3w4" data-story="nyt://article/58189baf-169e-5f21-9e6a-62278858816e" data-uri="nyt://article/58189baf-169e-5f21-9e6a-62278858816e" data-visited="" href="https://www.nytimes.com/2021/01/10/us/washington-dc-statehood.html"><h3 class="css-1i56yqc e1sjycav0" size="200">The 51st State? Washington Revisits an Uphill Cause With New Fervor</h3></a><div aria-hidden="true" class="css-1v4zsj1 e16ry1jj0" color="red"></div><a class="css-kej3w4" data-story="nyt://article/58189baf-169e-5f21-9e6a-62278858816e" data-uri="nyt://article/58189baf-169e-5f21-9e6a-62278858816e" data-visited="" href="https://www.nytimes.com/2021/01/10/us/washington-dc-statehood.html"><p class="css-xr2t52">District of Columbia statehood has long been out of reach, but proponents hope Democratic control and last week’s security issues could change that.</p></a></section></div></div></div></div></div></section></section></div></div>
